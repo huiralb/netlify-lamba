@@ -1,4 +1,4 @@
-# netlify-lamba
+# netlify-lambda
 Latihan Netlify Lambda
 
 # Video Course
